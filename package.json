@@ -1,0 +1,49 @@
+{
+  "homepage": "https://BongominErickJuma.github.io/auctioning",
+  "name": "my-react-app--template",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
+    "dev": "vite --host",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource/edu-vic-wa-nt-beginner": "^5.0.12",
+    "@fontsource/league-spartan": "^5.0.20",
+    "@fontsource/montserrat": "^5.0.18",
+    "@popperjs/core": "^2.11.8",
+    "@srexi/purecounterjs": "^1.5.0",
+    "apexcharts": "^3.52.0",
+    "axios": "^1.7.7",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "lodash.throttle": "^4.1.1",
+    "mdb-react-ui-kit": "8.0.0",
+    "perfect-cursors": "^1.0.5",
+    "react": "^18.3.1",
+    "react-apexcharts": "^1.4.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.1",
+    "react-scripts": "5.0.1",
+    "react-use-websocket": "^4.8.1",
+    "swiper": "^11.1.14",
+    "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.34.3",
+    "eslint-plugin-react-hooks": "^4.6.2",
+    "eslint-plugin-react-refresh": "^0.4.7",
+    "gh-pages": "^6.1.1",
+    "sass": "^1.77.8",
+    "vite": "^5.3.4"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "name": "upcoming auctions",
+      "call": "auctions"
+    },
+    {
+      "name": "auction results",
+      "call": "auctions"
+    }
+  ]
+}

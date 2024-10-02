@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "name": "Constructions",
+      "call": "categories"
+    },
+    {
+      "name": "Trucks & Trailers",
+      "call": "categories"
+    },
+    {
+      "name": "Agriculture",
+      "call": "categories"
+    },
+    {
+      "name": "Oil & Gas",
+      "call": "categories"
+    },
+    {
+      "name": "Cranes",
+      "call": "categories"
+    },
+    {
+      "name": "Forestry",
+      "call": "categories"
+    },
+    {
+      "name": "Real Estates",
+      "call": "categories"
+    },
+    {
+      "name": "Forklifts",
+      "call": "categories"
+    },
+    {
+      "name": "Motors",
+      "call": "categories"
+    },
+    {
+      "name": "Query & Aggregate",
+      "call": "categories"
+    },
+    {
+      "name": "Mining",
+      "call": "categories"
+    },
+    {
+      "name": "Consumers Items",
+      "call": "categories"
+    },
+    {
+      "name": "Government Surplus",
+      "call": "categories"
+    },
+    {
+      "name": "Constructions",
+      "call": "categories"
+    },
+    {
+      "name": "Trucks & Trailers",
+      "call": "categories"
+    },
+    {
+      "name": "Agriculture",
+      "call": "categories"
+    },
+    {
+      "name": "Oil & Gas",
+      "call": "categories"
+    },
+    {
+      "name": "Cranes",
+      "call": "categories"
+    },
+    {
+      "name": "Forestry",
+      "call": "categories"
+    },
+    {
+      "name": "Real Estates",
+      "call": "categories"
+    }
+  ]
+}
